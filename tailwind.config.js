@@ -1,6 +1,6 @@
 module.exports = {
   darkMode:"class",
-  content: ['./*.html'],
+  content: ['./app/*.html'],
   theme: {
     extend: {
       spacing:{
