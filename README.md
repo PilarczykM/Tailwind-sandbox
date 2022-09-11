@@ -1,2 +1,2 @@
 # Portwind - Basic HTML / Tailwind website 
-![Hero Banner]()
+![Hero Banner](git_img/hero_banner.jpg)
